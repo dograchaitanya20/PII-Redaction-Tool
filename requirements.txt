@@ -1,3 +1,5 @@
-spacy==3.8.15
+spacy==3.8.13
 python-docx==1.2.0
-Faker==40.36.0
+Faker>=30.0.0
+flask==3.0.3
+gunicorn==22.0.0
