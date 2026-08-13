@@ -1,0 +1,22 @@
+[
+  {"text": "Patient SSN on file: 219-09-9999.", "entities": [{"label": "SSN", "text": "219-09-9999"}]},
+  {"text": "His social security number is 045-56-2312 for payroll purposes.", "entities": [{"label": "SSN", "text": "045-56-2312"}]},
+  {"text": "Please charge card 4539 1488 0343 6467 for the deposit.", "entities": [{"label": "CREDIT_CARD", "text": "4539 1488 0343 6467"}]},
+  {"text": "Card on file: 4532-0151-1283-0366, expiring next year.", "entities": [{"label": "CREDIT_CARD", "text": "4532-0151-1283-0366"}]},
+  {"text": "The request originated from IP address 203.0.113.42 at 2am.", "entities": [{"label": "IP", "text": "203.0.113.42"}]},
+  {"text": "Server logs show repeated access from 10.42.18.9 overnight.", "entities": [{"label": "IP", "text": "10.42.18.9"}]},
+  {"text": "Date of birth: 14/03/1988, as recorded on the passport.", "entities": [{"label": "DOB", "text": "14/03/1988"}]},
+  {"text": "She was born on August 2, 1990 in Pune.", "entities": [{"label": "DOB", "text": "August 2, 1990"}]},
+  {"text": "DOB: 5-11-1975 confirmed against the Aadhaar card.", "entities": [{"label": "DOB", "text": "5-11-1975"}]},
+  {"text": "Employee Priya Nair can be reached at priya.nair88@gmail.com.", "entities": [{"label": "PERSON", "text": "Priya Nair"}, {"label": "EMAIL", "text": "priya.nair88@gmail.com"}]},
+  {"text": "Please call Arjun Mehta at +91 98200 11223 for the invoice.", "entities": [{"label": "PERSON", "text": "Arjun Mehta"}, {"label": "PHONE", "text": "+91 98200 11223"}]},
+  {"text": "The vendor, BlueSky Textiles Private Limited, submitted the tender.", "entities": [{"label": "COMPANY", "text": "BlueSky Textiles Private Limited"}]},
+  {"text": "Shipping address: 45 MG Road, Andheri East, Mumbai - 400069, Maharashtra.", "entities": [{"label": "ADDRESS", "text": "Shipping address: 45 MG Road, Andheri East, Mumbai - 400069, Maharashtra."}]},
+  {"text": "Order number 88213 was shipped yesterday.", "entities": []},
+  {"text": "Ticket #45210 remains open pending review.", "entities": []},
+  {"text": "The invoice total came to 12345 rupees.", "entities": []},
+  {"text": "Reference ID: 998877665544 for internal tracking only.", "entities": []},
+  {"text": "Meeting scheduled for 10/12/2026 at the head office.", "entities": []},
+  {"text": "Contact support@company.com or visit our office in Delhi.", "entities": [{"label": "EMAIL", "text": "support@company.com"}]},
+  {"text": "Sneha Kulkarni, DOB 23-01-1992, SSN 512-88-3300, lives near Baner, Pune - 411045.", "entities": [{"label": "PERSON", "text": "Sneha Kulkarni"}, {"label": "DOB", "text": "23-01-1992"}, {"label": "SSN", "text": "512-88-3300"}]}
+]

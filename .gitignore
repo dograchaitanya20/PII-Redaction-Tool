@@ -1,0 +1,25 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Large documents & local outputs (copyrighted/confidential)
+input/Red_Herring_Prospectus.docx
+output/Red_Herring_Prospectus_REDACTED.docx
+
+# Local logs & evaluation summaries
+logs/redaction_log.csv
+logs/redaction_log.json
+eval_summary.json
+
+# Development scratch directories
+scratch/
+.idea/
+.vscode/
